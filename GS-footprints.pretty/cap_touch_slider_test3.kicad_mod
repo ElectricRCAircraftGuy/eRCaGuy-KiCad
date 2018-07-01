@@ -1,0 +1,42 @@
+(module GS_footprints:cap_touch_slider_test3 (layer F.Cu) (tedit 5B316534)
+  (descr https://www.st.com/content/ccc/resource/technical/document/application_note/46/39/d6/92/4a/4d/40/9f/DM00087990.pdf/files/DM00087990.pdf/jcr:content/translations/en.DM00087990.pdf)
+  (tags "capacitive touch sensor")
+  (fp_text reference REF** (at 0 39.87) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value cap_touch_slider_test3 (at 0 38.87) (layer F.Fab)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_poly (pts (xy -26.035 26.035) (xy -29.845 26.035) (xy -29.845 38.1) (xy -26.67 38.1)
+    (xy -26.035 37.465) (xy -26.035 32.385) (xy -26.67 31.75) (xy -26.035 31.115)) (layer F.Paste) (width 0.15))
+  (pad 1 smd custom (at 0 30.48) (size 1.524 1.524) (layers F.Cu F.Paste F.Mask)
+    (options (clearance outline) (anchor rect))
+    (primitives
+      (gr_poly (pts
+         (xy -25.4 1.27) (xy 25.4 1.27) (xy 25.4 -3.81)) (width 0.15))
+    ))
+  (pad 1 smd custom (at 0 27.305 180) (size 1.524 1.524) (layers F.Cu F.Paste F.Mask)
+    (options (clearance outline) (anchor rect))
+    (primitives
+      (gr_poly (pts
+         (xy -25.4 1.27) (xy 25.4 1.27) (xy 25.4 -3.81)) (width 0.15))
+    ))
+  (pad 1 smd custom (at 0 33.655 180) (size 1.524 1.524) (layers F.Cu F.Paste F.Mask)
+    (options (clearance outline) (anchor rect))
+    (primitives
+      (gr_poly (pts
+         (xy -25.4 1.27) (xy 25.4 1.27) (xy 25.4 -3.81)) (width 0.15))
+    ))
+  (pad 1 smd custom (at 0 36.83) (size 1.524 1.524) (layers F.Cu F.Paste F.Mask)
+    (options (clearance outline) (anchor rect))
+    (primitives
+      (gr_poly (pts
+         (xy -25.4 1.27) (xy 25.4 1.27) (xy 25.4 -3.81)) (width 0.15))
+    ))
+  (pad 1 smd custom (at -1.905 20.955) (size 1.524 1.524) (layers F.Cu F.Paste F.Mask)
+    (options (clearance outline) (anchor rect))
+    (primitives
+      (gr_poly (pts
+         (xy -25.4 1.27) (xy 25.4 1.27) (xy 25.4 -3.81)) (width 0.15))
+    ))
+)

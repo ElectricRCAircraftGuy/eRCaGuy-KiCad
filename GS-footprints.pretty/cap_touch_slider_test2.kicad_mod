@@ -1,0 +1,40 @@
+(module GS_footprints:cap_touch_slider_test2 (layer F.Cu) (tedit 5B30A34C)
+  (fp_text reference REF** (at 0 0.5) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value cap_touch_slider_test2 (at 0 -0.5) (layer F.Fab)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_poly (pts (xy -26.035 -13.335) (xy -29.845 -13.335) (xy -29.845 -1.27) (xy -26.67 -1.27)
+    (xy -26.035 -1.905) (xy -26.035 -6.985) (xy -26.67 -7.62) (xy -26.035 -8.255)) (layer F.Paste) (width 0.15))
+  (pad 1 smd custom (at 0 -8.89) (size 1.524 1.524) (layers F.Cu F.Paste F.Mask)
+    (options (clearance outline) (anchor rect))
+    (primitives
+      (gr_poly (pts
+         (xy -25.4 1.27) (xy 25.4 1.27) (xy 25.4 -3.81)) (width 0.15))
+    ))
+  (pad 1 smd custom (at 0 -12.065 180) (size 1.524 1.524) (layers F.Cu F.Paste F.Mask)
+    (options (clearance outline) (anchor rect))
+    (primitives
+      (gr_poly (pts
+         (xy -25.4 1.27) (xy 25.4 1.27) (xy 25.4 -3.81)) (width 0.15))
+    ))
+  (pad 1 smd custom (at 0 -5.715 180) (size 1.524 1.524) (layers F.Cu F.Paste F.Mask)
+    (options (clearance outline) (anchor rect))
+    (primitives
+      (gr_poly (pts
+         (xy -25.4 1.27) (xy 25.4 1.27) (xy 25.4 -3.81)) (width 0.15))
+    ))
+  (pad 1 smd custom (at 0 -2.54) (size 1.524 1.524) (layers F.Cu F.Paste F.Mask)
+    (options (clearance outline) (anchor rect))
+    (primitives
+      (gr_poly (pts
+         (xy -25.4 1.27) (xy 25.4 1.27) (xy 25.4 -3.81)) (width 0.15))
+    ))
+  (pad 1 smd custom (at -1.905 -18.415) (size 1.524 1.524) (layers F.Cu F.Paste F.Mask)
+    (options (clearance outline) (anchor rect))
+    (primitives
+      (gr_poly (pts
+         (xy -25.4 1.27) (xy 25.4 1.27) (xy 25.4 -3.81)) (width 0.15))
+    ))
+)

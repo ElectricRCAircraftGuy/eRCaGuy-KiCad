@@ -1,0 +1,20 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# Barrel_Jack_Male
+#
+DEF Barrel_Jack_Male J 0 40 Y Y 1 F N
+F0 "J" -300 0 50 H V C CNN
+F1 "Barrel_Jack_Male" 0 -150 50 H V C CNN
+F2 "" -150 50 50 H I C CNN
+F3 "https://files.cablewholesale.com/pdfspecs/30w1-00200.pdf" -50 150 50 H I C CNN
+F4 "https://www.ebay.com/sch/i.html?_from=R40&_trksid=m570.l1313&_nkw=5.5+2.1+plug+male+10&_sacat=0&LH_TitleDesc=0&_sop=15&_osacat=0&_odkw=5.5x2.1+male+10pcs&LH_BIN=1&LH_TitleDesc=0" 50 250 50 H I C CNN "Ebay"
+F5 "https://www.cablewholesale.com/specs/30w1-00200.php" 150 350 50 H I C CNN "Alternate Link"
+DRAW
+S 100 100 -200 -100 0 1 0 N
+X tip 1 200 50 100 L 50 50 1 1 I
+X sleeve 2 200 -50 100 L 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
+#End Library

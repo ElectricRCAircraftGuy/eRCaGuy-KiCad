@@ -1,0 +1,39 @@
+(module ercaguy-footprints:cap_touch_slider_2.00x0.49in_6_fingers (layer F.Cu) (tedit 5B38EDFF)
+  (fp_text reference REF** (at 26.162 -13.716) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value cap_touch_slider_2.00x0.49in_6_fingers (at 25.654 1.778) (layer F.Fab)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text user "Settings in spreadsheet sizing tool: 2x0.5 in, 6 fingers, 0.01 grid, 0.02 vert space, 0.05 L/R rect x size" (at 24.638 4.064) (layer Cmts.User) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (pad 1 smd custom (at -0.889 -6.223) (size 0.762 12.446) (layers F.Cu)
+    (options (clearance outline) (anchor rect))
+    (primitives
+      (gr_poly (pts
+         (xy 0.889 -6.223) (xy 0.889 -2.921) (xy 0.381 -2.413) (xy 0.889 -1.905) (xy 0.889 1.397)
+         (xy 0.381 1.905) (xy 0.889 2.413) (xy 0.889 5.715) (xy 0.381 6.223) (xy -0.381 6.223)
+         (xy -0.381 -6.223)) (width 0.15))
+      (gr_poly (pts
+         (xy 49.149 -6.223) (xy 0.889 -6.223) (xy 0.889 -2.921)) (width 0.15))
+      (gr_poly (pts
+         (xy 49.149 -1.905) (xy 0.889 -1.905) (xy 0.889 1.397)) (width 0.15))
+      (gr_poly (pts
+         (xy 49.149 2.413) (xy 0.889 2.413) (xy 0.889 5.715)) (width 0.15))
+    ))
+  (pad 2 smd custom (at 49.149 -6.223) (size 0.762 12.446) (layers F.Cu)
+    (options (clearance outline) (anchor rect))
+    (primitives
+      (gr_poly (pts
+         (xy -49.149 -2.413) (xy -0.889 -2.413) (xy -0.889 -5.715)) (width 0.15))
+      (gr_poly (pts
+         (xy -49.149 1.905) (xy -0.889 1.905) (xy -0.889 -1.397)) (width 0.15))
+      (gr_poly (pts
+         (xy -49.149 6.223) (xy -0.889 6.223) (xy -0.889 2.921)) (width 0.15))
+      (gr_poly (pts
+         (xy -0.889 6.223) (xy -0.889 2.921) (xy -0.381 2.413) (xy -0.889 1.905) (xy -0.889 -1.397)
+         (xy -0.381 -1.905) (xy -0.889 -2.413) (xy -0.889 -5.715) (xy -0.381 -6.223) (xy 0.381 -6.223)
+         (xy 0.381 6.223)) (width 0.15))
+    ))
+)

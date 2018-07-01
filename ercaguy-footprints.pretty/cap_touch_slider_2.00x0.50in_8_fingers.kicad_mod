@@ -1,4 +1,4 @@
-(module ercaguy-footprints:cap_touch_slider_2.00x0.50in_8_fingers (layer F.Cu) (tedit 5B38EB4C)
+(module ercaguy-footprints:cap_touch_slider_2.00x0.50in_8_fingers (layer F.Cu) (tedit 5B38F0C6)
   (descr https://www.st.com/content/ccc/resource/technical/document/application_note/46/39/d6/92/4a/4d/40/9f/DM00087990.pdf/files/DM00087990.pdf/jcr:content/translations/en.DM00087990.pdf)
   (tags "capacitive touch slider")
   (attr virtual)

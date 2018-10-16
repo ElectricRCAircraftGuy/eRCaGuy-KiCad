@@ -1,3 +1,8 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP SYM_misc_footprint_graphic
+K symbol graphic misc footprint
+F ~
+$ENDCMP
+#
 #End Doc Library

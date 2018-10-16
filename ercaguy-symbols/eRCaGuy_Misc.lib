@@ -33,4 +33,22 @@ X GND 4 400 -100 100 L 50 50 1 1 w
 ENDDRAW
 ENDDEF
 #
+# SYM_misc_footprint_graphic
+#
+DEF SYM_misc_footprint_graphic SYM 0 40 Y Y 1 F N
+F0 "SYM" 0 200 50 H V C CNN
+F1 "SYM_misc_footprint_graphic" 50 -100 50 H V C CNN
+F2 "" -100 -40 50 H I C CNN
+F3 "" 0 60 50 H I C CNN
+DRAW
+T 0 0 100 50 0 0 0 footprint Normal 0 C C
+T 0 0 0 50 0 0 0 graphic Normal 0 C C
+S -200 150 200 -50 0 1 0 N
+P 2 0 0 0 -200 150 -150 -50 N
+P 2 0 0 0 200 150 150 -50 N
+P 3 0 0 0 -150 -50 -200 -50 -200 150 f
+P 3 0 0 0 150 -50 200 -50 200 150 f
+ENDDRAW
+ENDDEF
+#
 #End Library

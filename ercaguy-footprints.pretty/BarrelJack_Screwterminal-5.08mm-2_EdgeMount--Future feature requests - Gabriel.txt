@@ -1,0 +1,6 @@
+
+GS
+16 Oct. 2018 
+
+This footprint doesn't know that its pads *are* already all connected! Somehow get it to recognize they are so that DRC passes when you use the footprint on a PCB. 
+A possible solution would be to allow adding traces and vias to footprints, then I could draw the tracks right in the footprint!

@@ -1,11 +1,11 @@
-### Same as KiCad Libraries License
+### This content is licensed under the same license as the "KiCad Libraries License", copied and pasted below.
 
-Source:
+"KiCad Libraries License" Source:
 - https://github.com/KiCad/kicad-footprints/blob/master/LICENSE.md
 - https://github.com/KiCad/kicad-symbols/blob/master/LICENSE.md
 
 
-### KiCad Libraries License
+### KiCad Libraries License:
 
 The KiCad libraries are licensed under the [Creative Commons CC-BY-SA 4.0 License](https://creativecommons.org/licenses/by-sa/4.0/legalcode), with the following exception:
 

@@ -1,2 +1,5 @@
 # LibreOffice Calc (spreadsheet) temporary files:
 *.ods#
+
+# LibreOffice Writer
+*.odt#

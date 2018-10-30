@@ -22,7 +22,10 @@ www.ElectricRCAircraftGuy.com
     * charge pumps, op-amp circuits
     * etc....
   * ...that I have finally decided to make this library in order to have a "goto" reference where I can just start pulling schematic blocks for projects whenever I need to make something! 
-  * PLEASE FEEL FREE TO CONTRIBUTE YOUR OWN DESIGNS AND BUILDING BLOCKS! Include all reference material, source documentation, links to external URLs, documentation, descriptions and explanations, spreadsheets, calculations, notes, etc., that you used to make your reference designs, or generated in the process. LEAVE NOTHING OUT! If you needed it to *build* the circuit or schematic, then we need it to *learn and understand* the circuit or schematic that you built.
+
+# Contribute:
+* PLEASE FEEL FREE TO CONTRIBUTE YOUR OWN DESIGNS AND BUILDING BLOCKS! 
+* Include all reference material, source documentation, links to external URLs, documentation, descriptions and explanations, spreadsheets, calculations, notes, etc., that you used to make your reference designs, or generated in the process. LEAVE NOTHING OUT! If you needed it to *build* the circuit or schematic, then we need it to *learn and understand* the circuit or schematic that you built.
 
 # Donate:
 Say "thanks" or give encouragement to continue by donating: https://www.electricrcaircraftguy.com/2016/01/contribute.html.

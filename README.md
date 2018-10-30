@@ -6,7 +6,7 @@ www.ElectricRCAircraftGuy.com
 - To reach me you can find my email using the "Contact me" link at the top of my website.  
 
 # Project Folders:
-* `Libraries` = schematic symbol libraries (`.lib` files), PCB layout footprint libraries (`.pretty` folders w/`.kicad_mod` files), etc.
+* `Libraries` = personal schematic symbol libraries (`.lib` files), PCB layout footprint libraries (`.pretty` folders w/`.kicad_mod` files), etc.
 * `Building_Blocks` = standalone circuits, or circuit snippets, which provide modular functionality.
   * Ex: buck converters, boost converters, MOSFET gate drivers, LDO (Low Drop-Out) Linear voltage regulators, etc.
   * These "building blocks" will probably come in the form of standalone KiCad projects.
